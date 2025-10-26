@@ -32,7 +32,7 @@ int main() {
   // Área para exibição dos dados da cidade
   printf("----Carta1 ----\n");
   printf("Estado: %s\n", estado1);
-  printf("Código da carta:%n", cidade1);
+  printf("Código da carta: %n", cidade1);
   printf("Cidade: %s\n",cidade1);
   printf("População:%d habitantes\n",populacao1);
   printf("Área:%.1f km²\n", area1);
